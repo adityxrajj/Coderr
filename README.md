@@ -5,7 +5,7 @@ Welcome to **Coderr**, a website for tech enthusiasts, featuring blogs, download
 ## Project Overview
 
 This repository contains the source code and assets for the Coderrrr website, which includes:
-- Several blog pages (Blog 1 to Blog 15)
+- Several blog pages (Blog 1 to Blog 50)
 - Static pages like **About**, **Contact**, and **Policy**
 - Multimedia assets such as images, videos, audio, and downloadable PDFs
 
